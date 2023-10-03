@@ -1,4 +1,4 @@
-![Header]
+<img src= "https://github.com/Reuttskaya/Reuttskaya/blob/main/header_1.png"/>
 
 ### About Me \ Обо мне
 Я  - junior аналитик данных. 
